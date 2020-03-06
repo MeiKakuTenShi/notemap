@@ -1,0 +1,13 @@
+{
+    "version": "v1.0",
+    "user": {
+        "skips": null,
+        "saveDir": null,
+        "saveFile": null
+    },
+    "defaults": {
+        "skips": 4,
+        "saveDir": "/",
+        "saveFile": "userMaps"
+    }
+}
